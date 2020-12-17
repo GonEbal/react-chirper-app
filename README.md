@@ -1,6 +1,6 @@
 # Chirper Project
 
-[React Chirper App ](https://github.com/GonEbal/chirper-app.git).
+[React Chirper App](https://github.com/GonEbal/chirper-app.git).
 
 ## Project Setup
 
