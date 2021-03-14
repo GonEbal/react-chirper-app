@@ -2,13 +2,13 @@ let users = {
   pavel_durov: {
     id: "pavel_durov",
     name: "Pavel Durov",
-    avatarURL: "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/19227942_1725165180845723_3970748143334588416_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=JqW2FV73C7QAX8adQco&tp=1&oh=89b7f584346be473194e870dd33883f0&oe=60088C97",
+    avatarURL: "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/13277631_2032550480305625_3865273457465884672_n.jpg?tp=1&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=9KdJiWOKZJ8AX9St3GX&oh=d546bd56051efebb1ae3bea912808d94&oe=607568A8",
     tweets: ['8xf0y6ziyjabvozdd253nd', 'hbsc73kzqi75rg7v1e0i6a', '2mb6re13q842wu8n106bhk', '6h5ims9iks66d4m7kqizmv', '3sklxkf9yyfowrf0o1ftbb'],
   },
   denissamokhin: {
     id: "denissamokhin",
     name: "Denis Samokhin",
-    avatarURL: "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/105973407_116923173172598_1983930788296877458_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=u6fdOOXU-R8AX_3gHPH&tp=1&oh=281d607a13ade94584757675a87869a4&oe=60074447",
+    avatarURL: "https://media-exp1.licdn.com/dms/image/C5603AQElvbhs1jcJzQ/profile-displayphoto-shrink_200_200/0/1606765473679?e=1621468800&v=beta&t=Kef9atSmYVPzVkJuGWTErt4VPPUHscQrMfj5gZQ3780",
     tweets: ['5c9qojr2d1738zlx09afby', 'f4xzgapq7mu783k9t02ghx', 'nnvkjqoevs8t02lzcc0ky', '4pt0px8l0l9g6y69ylivti', 'fap8sdxppna8oabnxljzcv', 'leqp4lzfox7cqvsgdj0e7', '26p5pskqi88i58qmza2gid', 'xi3ca2jcfvpa0i3t4m7ag'],
   },
   dan_abramov: {
